@@ -1,4 +1,6 @@
 # Speech Emotion Recognition
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMahe-27%2Femotion-recognition-using-speech.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMahe-27%2Femotion-recognition-using-speech?ref=badge_shield)
+
 ## Introduction
 - This repository handles building and training Speech Emotion Recognition System.
 - The basic idea behind this tool is to build and train/test a suited machine learning ( as well as deep learning ) algorithm that could recognize and detects human emotions from speech.
@@ -262,3 +264,7 @@ plot_histograms(classifiers=True)
   journal      = {GitHub repository},
   url          = {https://github.com/x4nth055/emotion-recognition-using-speech}
 }
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMahe-27%2Femotion-recognition-using-speech.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMahe-27%2Femotion-recognition-using-speech?ref=badge_large)
